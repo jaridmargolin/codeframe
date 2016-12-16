@@ -1,9 +1,18 @@
-# codeframe
-
-[![Build Status](https://travis-ci.org/jaridmargolin/codeframe.svg?branch=master)](https://travis-ci.org/jaridmargolin/codeframe) [![Coverage Status](https://coveralls.io/repos/github/jaridmargolin/codeframe/badge.svg?branch=master)](https://coveralls.io/github/jaridmargolin/codeframe?branch=master) [![NPM codeframe package](https://img.shields.io/npm/v/codeframe.svg)](https://npmjs.org/package/codeframe)
-
-> Terminal code previews
-
+<h1 align="center">codeframe</h1>
+<div align="center">
+  <p>Terminal code previews.</p>
+  <div>
+  <a href="https://travis-ci.org/jaridmargolin/codeframe"><img src="https://travis-ci.org/jaridmargolin/codeframe.svg?branch=master" alt="Build Status"></a>
+  <a href="https://coveralls.io/github/jaridmargolin/codeframe?branch=master"><img src="https://coveralls.io/repos/github/jaridmargolin/codeframe/badge.svg?branch=master" alt="Coverage Status"></a>
+  <a href="http://standardjs.com/"><img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
+  </div>
+  <div>
+  <a href="https://npmjs.org/package/codeframe"><img src="https://img.shields.io/npm/v/codeframe.svg" alt="NPM codeframe package"></a>
+  <a href="https://david-dm.org/jaridmargolin/codeframe"><img src="https://david-dm.org/jaridmargolin/codeframe.svg" alt="Dependency Status"></a>
+  <a href="https://david-dm.org/jaridmargolin/codeframe#info=devDependencies"><img src="https://david-dm.org/jaridmargolin/codeframe/dev-status.svg" alt="devDependency Status"></a>
+  </div>
+</div>
+<br>
 
 ### Example Usage
 
